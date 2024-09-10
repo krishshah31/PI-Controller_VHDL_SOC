@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2023.2.2 (64-bit)
+# SW Build 4126759 on Thu Feb  8 23:53:51 MST 2024
+# IP Build 4126054 on Fri Feb  9 11:39:09 MST 2024
+# SharedData Build 4115275 on Tue Jan 30 00:40:57 MST 2024
+# Start of session at: Fri Jul  5 17:35:32 2024
+# Process ID: 3200
+# Current directory: C:/Users/Asus/Desktop/VHDL SOC HBH/SOC codes/new/pic16hardware
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17056 C:\Users\Asus\Desktop\VHDL SOC HBH\SOC codes\new\pic16hardware\pic16hardware.xpr
+# Log file: C:/Users/Asus/Desktop/VHDL SOC HBH/SOC codes/new/pic16hardware/vivado.log
+# Journal file: C:/Users/Asus/Desktop/VHDL SOC HBH/SOC codes/new/pic16hardware\vivado.jou
+# Running On: LAPTOP-2OH9G0NB, OS: Windows, CPU Frequency: 2296 MHz, CPU Physical cores: 8, Host memory: 16844 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Asus/Desktop/VHDL SOC HBH/SOC codes/new/pic16hardware/pic16hardware.xpr}
+update_compile_order -fileset sources_1

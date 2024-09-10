@@ -1,0 +1,199 @@
+12:55:12 DEBUG : Logs will be stored at 'C:/mueller/SOCL3/pic16hardware/vitiswsp/IDE.log'.
+12:55:14 INFO  : Registering command handlers for Vitis TCF services
+12:55:14 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\mueller\SOCL3\pic16hardware\vitiswsp\temp_xsdb_launch_script.tcl
+12:55:15 INFO  : Platform repository initialization has completed.
+12:55:18 INFO  : XSCT server has started successfully.
+12:55:21 INFO  : plnx-install-location is set to ''
+12:55:21 INFO  : Successfully done setting XSCT server connection channel  
+12:55:21 INFO  : Successfully done query RDI_DATADIR 
+12:55:21 INFO  : Successfully done setting workspace for the tool. 
+12:57:31 INFO  : Result from executing command 'getProjects': zedbpi_hardware
+12:57:31 INFO  : Result from executing command 'getPlatforms': xilinx_vck190_base_202210_1|C:/Xilinx/Vitis/2022.1/base_platforms/xilinx_vck190_base_202210_1/xilinx_vck190_base_202210_1.xpfm;xilinx_vck190_base_dfx_202210_1|C:/Xilinx/Vitis/2022.1/base_platforms/xilinx_vck190_base_dfx_202210_1/xilinx_vck190_base_dfx_202210_1.xpfm;xilinx_vmk180_base_202210_1|C:/Xilinx/Vitis/2022.1/base_platforms/xilinx_vmk180_base_202210_1/xilinx_vmk180_base_202210_1.xpfm;xilinx_zcu102_base_202210_1|C:/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu102_base_202210_1/xilinx_zcu102_base_202210_1.xpfm;xilinx_zcu102_base_dfx_202210_1|C:/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu102_base_dfx_202210_1/xilinx_zcu102_base_dfx_202210_1.xpfm;xilinx_zcu104_base_202210_1|C:/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu104_base_202210_1/xilinx_zcu104_base_202210_1.xpfm
+12:57:46 INFO  : Result from executing command 'getProjects': zedbpi_hardware
+12:57:46 INFO  : Result from executing command 'getPlatforms': xilinx_vck190_base_202210_1|C:/Xilinx/Vitis/2022.1/base_platforms/xilinx_vck190_base_202210_1/xilinx_vck190_base_202210_1.xpfm;xilinx_vck190_base_dfx_202210_1|C:/Xilinx/Vitis/2022.1/base_platforms/xilinx_vck190_base_dfx_202210_1/xilinx_vck190_base_dfx_202210_1.xpfm;xilinx_vmk180_base_202210_1|C:/Xilinx/Vitis/2022.1/base_platforms/xilinx_vmk180_base_202210_1/xilinx_vmk180_base_202210_1.xpfm;xilinx_zcu102_base_202210_1|C:/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu102_base_202210_1/xilinx_zcu102_base_202210_1.xpfm;xilinx_zcu102_base_dfx_202210_1|C:/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu102_base_dfx_202210_1/xilinx_zcu102_base_dfx_202210_1.xpfm;xilinx_zcu104_base_202210_1|C:/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu104_base_202210_1/xilinx_zcu104_base_202210_1.xpfm;zedbpi_hardware|C:/mueller/SOCL3/pic16hardware/vitiswsp/zedbpi_hardware/export/zedbpi_hardware/zedbpi_hardware.xpfm
+12:59:52 INFO  : Checking for BSP changes to sync application flags for project 'pictmn'...
+13:13:33 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+13:13:34 INFO  : Jtag cable 'Digilent Zed 210248553100' is selected.
+13:13:34 INFO  : 'jtag frequency' command is executed.
+13:13:34 INFO  : Context for 'APU' is selected.
+13:13:34 INFO  : System reset is completed.
+13:13:37 INFO  : 'after 3000' command is executed.
+13:13:37 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248553100" && level==0 && jtag_device_ctx=="jsn-Zed-210248553100-23727093-0"}' command is executed.
+13:13:40 INFO  : Device configured successfully with "C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/_ide/bitstream/zedpi_sys_wrapper.bit"
+13:13:40 INFO  : Context for 'APU' is selected.
+13:13:40 INFO  : Hardware design and registers information is loaded from 'C:/mueller/SOCL3/pic16hardware/vitiswsp/zedbpi_hardware/export/zedbpi_hardware/hw/zedpi_sys_wrapper.xsa'.
+13:13:40 INFO  : 'configparams force-mem-access 1' command is executed.
+13:13:40 INFO  : Context for 'APU' is selected.
+13:13:40 INFO  : Sourcing of 'C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/_ide/psinit/ps7_init.tcl' is done.
+13:13:40 INFO  : 'ps7_init' command is executed.
+13:13:40 INFO  : 'ps7_post_config' command is executed.
+13:13:40 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+13:13:40 INFO  : The application 'C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/Debug/pictmn.elf' is downloaded to processor 'ps7_cortexa9_0'.
+13:13:40 INFO  : 'configparams force-mem-access 0' command is executed.
+13:13:40 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248553100" && level==0 && jtag_device_ctx=="jsn-Zed-210248553100-23727093-0"}
+fpga -file C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/_ide/bitstream/zedpi_sys_wrapper.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw C:/mueller/SOCL3/pic16hardware/vitiswsp/zedbpi_hardware/export/zedbpi_hardware/hw/zedpi_sys_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}] -regs
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/Debug/pictmn.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+13:13:40 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+13:13:40 INFO  : 'con' command is executed.
+13:13:40 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+----------------End of Script----------------
+
+13:13:40 INFO  : Disconnected from the channel tcfchan#2.
+13:26:16 INFO  : Checking for BSP changes to sync application flags for project 'pictmn'...
+13:26:26 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+13:26:26 INFO  : Jtag cable 'Digilent Zed 210248553100' is selected.
+13:26:26 INFO  : 'jtag frequency' command is executed.
+13:26:26 INFO  : Context for 'APU' is selected.
+13:26:26 INFO  : System reset is completed.
+13:26:29 INFO  : 'after 3000' command is executed.
+13:26:29 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248553100" && level==0 && jtag_device_ctx=="jsn-Zed-210248553100-23727093-0"}' command is executed.
+13:26:32 INFO  : Device configured successfully with "C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/_ide/bitstream/zedpi_sys_wrapper.bit"
+13:26:32 INFO  : Context for 'APU' is selected.
+13:26:32 INFO  : Hardware design and registers information is loaded from 'C:/mueller/SOCL3/pic16hardware/vitiswsp/zedbpi_hardware/export/zedbpi_hardware/hw/zedpi_sys_wrapper.xsa'.
+13:26:32 INFO  : 'configparams force-mem-access 1' command is executed.
+13:26:32 INFO  : Context for 'APU' is selected.
+13:26:32 INFO  : Sourcing of 'C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/_ide/psinit/ps7_init.tcl' is done.
+13:26:32 INFO  : 'ps7_init' command is executed.
+13:26:32 INFO  : 'ps7_post_config' command is executed.
+13:26:32 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+13:26:32 INFO  : The application 'C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/Debug/pictmn.elf' is downloaded to processor 'ps7_cortexa9_0'.
+13:26:32 INFO  : 'configparams force-mem-access 0' command is executed.
+13:26:32 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248553100" && level==0 && jtag_device_ctx=="jsn-Zed-210248553100-23727093-0"}
+fpga -file C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/_ide/bitstream/zedpi_sys_wrapper.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw C:/mueller/SOCL3/pic16hardware/vitiswsp/zedbpi_hardware/export/zedbpi_hardware/hw/zedpi_sys_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}] -regs
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/Debug/pictmn.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+13:26:32 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+13:26:32 INFO  : 'con' command is executed.
+13:26:32 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+----------------End of Script----------------
+
+13:26:32 INFO  : Disconnected from the channel tcfchan#3.
+13:29:03 INFO  : Checking for BSP changes to sync application flags for project 'pictmn'...
+13:30:23 INFO  : Checking for BSP changes to sync application flags for project 'pictmn'...
+13:30:31 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+13:30:31 INFO  : Jtag cable 'Digilent Zed 210248553100' is selected.
+13:30:31 INFO  : 'jtag frequency' command is executed.
+13:30:31 INFO  : Context for 'APU' is selected.
+13:30:31 INFO  : System reset is completed.
+13:30:34 INFO  : 'after 3000' command is executed.
+13:30:34 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248553100" && level==0 && jtag_device_ctx=="jsn-Zed-210248553100-23727093-0"}' command is executed.
+13:30:37 INFO  : Device configured successfully with "C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/_ide/bitstream/zedpi_sys_wrapper.bit"
+13:30:37 INFO  : Context for 'APU' is selected.
+13:30:37 INFO  : Hardware design and registers information is loaded from 'C:/mueller/SOCL3/pic16hardware/vitiswsp/zedbpi_hardware/export/zedbpi_hardware/hw/zedpi_sys_wrapper.xsa'.
+13:30:37 INFO  : 'configparams force-mem-access 1' command is executed.
+13:30:37 INFO  : Context for 'APU' is selected.
+13:30:37 INFO  : Sourcing of 'C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/_ide/psinit/ps7_init.tcl' is done.
+13:30:37 INFO  : 'ps7_init' command is executed.
+13:30:37 INFO  : 'ps7_post_config' command is executed.
+13:30:37 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+13:30:37 INFO  : The application 'C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/Debug/pictmn.elf' is downloaded to processor 'ps7_cortexa9_0'.
+13:30:37 INFO  : 'configparams force-mem-access 0' command is executed.
+13:30:37 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248553100" && level==0 && jtag_device_ctx=="jsn-Zed-210248553100-23727093-0"}
+fpga -file C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/_ide/bitstream/zedpi_sys_wrapper.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw C:/mueller/SOCL3/pic16hardware/vitiswsp/zedbpi_hardware/export/zedbpi_hardware/hw/zedpi_sys_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}] -regs
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/Debug/pictmn.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+13:30:37 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+13:30:37 INFO  : 'con' command is executed.
+13:30:37 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+----------------End of Script----------------
+
+13:30:37 INFO  : Disconnected from the channel tcfchan#4.
+13:31:28 INFO  : Checking for BSP changes to sync application flags for project 'pictmn'...
+13:31:42 INFO  : Checking for BSP changes to sync application flags for project 'pictmn'...
+13:31:51 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+13:31:52 INFO  : Jtag cable 'Digilent Zed 210248553100' is selected.
+13:31:52 INFO  : 'jtag frequency' command is executed.
+13:31:52 INFO  : Context for 'APU' is selected.
+13:31:52 INFO  : System reset is completed.
+13:31:55 INFO  : 'after 3000' command is executed.
+13:31:55 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248553100" && level==0 && jtag_device_ctx=="jsn-Zed-210248553100-23727093-0"}' command is executed.
+13:31:57 INFO  : Device configured successfully with "C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/_ide/bitstream/zedpi_sys_wrapper.bit"
+13:31:57 INFO  : Context for 'APU' is selected.
+13:31:57 INFO  : Hardware design and registers information is loaded from 'C:/mueller/SOCL3/pic16hardware/vitiswsp/zedbpi_hardware/export/zedbpi_hardware/hw/zedpi_sys_wrapper.xsa'.
+13:31:57 INFO  : 'configparams force-mem-access 1' command is executed.
+13:31:57 INFO  : Context for 'APU' is selected.
+13:31:57 INFO  : Sourcing of 'C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/_ide/psinit/ps7_init.tcl' is done.
+13:31:58 INFO  : 'ps7_init' command is executed.
+13:31:58 INFO  : 'ps7_post_config' command is executed.
+13:31:58 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+13:31:58 INFO  : The application 'C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/Debug/pictmn.elf' is downloaded to processor 'ps7_cortexa9_0'.
+13:31:58 INFO  : 'configparams force-mem-access 0' command is executed.
+13:31:58 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248553100" && level==0 && jtag_device_ctx=="jsn-Zed-210248553100-23727093-0"}
+fpga -file C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/_ide/bitstream/zedpi_sys_wrapper.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw C:/mueller/SOCL3/pic16hardware/vitiswsp/zedbpi_hardware/export/zedbpi_hardware/hw/zedpi_sys_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}] -regs
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn/Debug/pictmn.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+13:31:58 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+13:31:58 INFO  : 'con' command is executed.
+13:31:58 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+----------------End of Script----------------
+
+13:31:58 INFO  : Disconnected from the channel tcfchan#5.

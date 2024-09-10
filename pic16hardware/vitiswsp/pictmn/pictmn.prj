@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="pictmn" location="C:/mueller/SOCL3/pic16hardware/vitiswsp/pictmn" platform="C:/mueller/SOCL3/pic16hardware/vitiswsp/zedbpi_hardware/export/zedbpi_hardware/zedbpi_hardware.xpfm" platformUID="xilinx:zedboard::0.0(custom)" systemProject="pictmn_system" sysConfig="zedbpi_hardware" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="342ac85a43af2a29ca3d7f70fa66eddd">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.992047906">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.823265794" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

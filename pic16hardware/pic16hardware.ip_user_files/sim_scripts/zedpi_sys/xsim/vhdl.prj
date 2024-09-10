@@ -1,0 +1,11 @@
+vhdl xil_defaultlib  \
+"../../../bd/zedpi_sys/ip/zedpi_sys_processing_system7_0_0/zedpi_sys_processing_system7_0_0_sim_netlist.vhdl" \
+"../../../bd/zedpi_sys/ipshared/035d/hdl/pictrl16.vhd" \
+"../../../bd/zedpi_sys/ipshared/035d/hdl/pictrlip_v1_0_S00_AXI.vhd" \
+"../../../bd/zedpi_sys/ipshared/035d/hdl/pictrlip_v1_0.vhd" \
+"../../../bd/zedpi_sys/ip/zedpi_sys_pictrlip_0_0/sim/zedpi_sys_pictrlip_0_0.vhd" \
+"../../../bd/zedpi_sys/ip/zedpi_sys_rst_ps7_0_100M_0/sim/zedpi_sys_rst_ps7_0_100M_0.vhd" \
+"../../../bd/zedpi_sys/ip/zedpi_sys_auto_pc_0/zedpi_sys_auto_pc_0_sim_netlist.vhdl" \
+"../../../bd/zedpi_sys/sim/zedpi_sys.vhd" \
+
+nosort

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2.2 (64-bit)
+# SW Build 4126759 on Thu Feb  8 23:53:51 MST 2024
+# IP Build 4126054 on Fri Feb  9 11:39:09 MST 2024
+# SharedData Build 4115275 on Tue Jan 30 00:40:57 MST 2024
+# Start of session at: Sun Jun 30 20:24:52 2024
+# Process ID: 4044
+# Current directory: F:/SOC codes/new/pic16hardware/pic16hardware.runs/zedpi_sys_auto_pc_0_synth_1
+# Command line: vivado.exe -log zedpi_sys_auto_pc_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source zedpi_sys_auto_pc_0.tcl
+# Log file: F:/SOC codes/new/pic16hardware/pic16hardware.runs/zedpi_sys_auto_pc_0_synth_1/zedpi_sys_auto_pc_0.vds
+# Journal file: F:/SOC codes/new/pic16hardware/pic16hardware.runs/zedpi_sys_auto_pc_0_synth_1\vivado.jou
+# Running On: LAPTOP-2OH9G0NB, OS: Windows, CPU Frequency: 2296 MHz, CPU Physical cores: 8, Host memory: 16844 MB
+#-----------------------------------------------------------
+source zedpi_sys_auto_pc_0.tcl -notrace

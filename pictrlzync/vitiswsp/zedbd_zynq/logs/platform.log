@@ -1,0 +1,1145 @@
+TRACE::2024-06-12.10:30:13::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:13::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:13::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:13::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:13::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:13::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:13::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-06-12.10:30:15::SCWPlatform::Opened new HwDB with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:15::SCWWriter::formatted JSON is {
+	"platformName":	"zedbd_zynq",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"zedbd_zynq",
+	"platHandOff":	"C:/mueller/SOCL3/pictrlzync/zedb_sys_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/zedb_sys_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"true",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2024-06-12.10:30:15::SCWWriter::formatted JSON is {
+	"platformName":	"zedbd_zynq",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"zedbd_zynq",
+	"platHandOff":	"C:/mueller/SOCL3/pictrlzync/zedb_sys_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/zedb_sys_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"true",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"zedbd_zynq",
+	"systems":	[{
+			"systemName":	"zedbd_zynq",
+			"systemDesc":	"zedbd_zynq",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"zedbd_zynq"
+		}]
+}
+TRACE::2024-06-12.10:30:15::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:15::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:15::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:15::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:15::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:15::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:15::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:15::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:15::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:15::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:15::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:15::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:15::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:15::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:15::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:15::SCWDomain::checking for install qemu data   : 
+TRACE::2024-06-12.10:30:15::SCWDomain:: Using the QEMU Data from install at  : C:/Xilinx/Vitis/2022.1/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2024-06-12.10:30:15::SCWDomain:: Using the QEMU args  from install at  : C:/Xilinx/Vitis/2022.1/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2024-06-12.10:30:15::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:15::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:15::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:15::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:15::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:15::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:15::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:15::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:15::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:15::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:15::SCWDomain::Qemu Directory name is changed from "" to "qemu"
+TRACE::2024-06-12.10:30:15::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:15::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:15::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:15::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:15::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:15::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:15::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:15::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-06-12.10:30:15::SCWMssOS::No sw design opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:15::SCWMssOS::mss does not exists at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:15::SCWMssOS::Creating sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:15::SCWMssOS::Adding the swdes entry, created swdb C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss with des name C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:15::SCWMssOS::updating the scw layer changes to swdes at   C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:15::SCWMssOS::Writing mss at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:15::SCWMssOS::Completed writing the mss file at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2024-06-12.10:30:15::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2024-06-12.10:30:15::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2024-06-12.10:30:15::SCWMssOS::Completed writing the mss file at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2024-06-12.10:30:15::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2024-06-12.10:30:16::SCWMssOS::Saving the mss changes C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:16::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-06-12.10:30:16::SCWMssOS::Writing the mss file completed C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:16::SCWMssOS::Commit changes completed.
+TRACE::2024-06-12.10:30:16::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:16::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:16::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:16::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:16::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:16::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:16::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:30:16::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:16::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:16::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:16::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:16::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:16::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:16::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:16::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:30:16::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:16::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:16::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:16::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:16::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:16::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:16::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:16::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:30:16::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:16::SCWWriter::formatted JSON is {
+	"platformName":	"zedbd_zynq",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"zedbd_zynq",
+	"platHandOff":	"C:/mueller/SOCL3/pictrlzync/zedb_sys_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/zedb_sys_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"true",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"zedbd_zynq",
+	"systems":	[{
+			"systemName":	"zedbd_zynq",
+			"systemDesc":	"zedbd_zynq",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"zedbd_zynq",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/zedbd_zynq/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/zedbd_zynq/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"9885fd8c66faad77d773ea45090249e0",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2024-06-12.10:30:16::SCWPlatform::Started generating the artifacts platform zedbd_zynq
+TRACE::2024-06-12.10:30:16::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-06-12.10:30:16::SCWPlatform::Started generating the artifacts for system configuration zedbd_zynq
+LOG::2024-06-12.10:30:16::SCWSystem::Checking the domain standalone_domain
+LOG::2024-06-12.10:30:16::SCWSystem::Not a boot domain 
+LOG::2024-06-12.10:30:16::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2024-06-12.10:30:16::SCWDomain::Generating domain artifcats
+TRACE::2024-06-12.10:30:16::SCWMssOS::Generating standalone artifcats
+TRACE::2024-06-12.10:30:16::SCWMssOS::Copying the qemu file from  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/resources/zedbd_zynq/standalone_domain/qemu_args.txt To C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/export/zedbd_zynq/sw/zedbd_zynq/qemu/
+TRACE::2024-06-12.10:30:16::SCWMssOS::Copying the qemu file from  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/resources/zedbd_zynq/standalone_domain/qemu_args.txt To C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/export/zedbd_zynq/sw/zedbd_zynq/standalone_domain/qemu/
+TRACE::2024-06-12.10:30:16::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-06-12.10:30:16::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:16::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:16::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:16::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:16::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:16::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:16::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:30:16::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:16::SCWMssOS::Completed writing the mss file at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2024-06-12.10:30:16::SCWMssOS::Mss edits present, copying mssfile into export location C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:16::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-06-12.10:30:16::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-06-12.10:30:16::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2024-06-12.10:30:16::SCWMssOS::skipping the bsp build ... 
+TRACE::2024-06-12.10:30:16::SCWMssOS::Copying to export directory.
+TRACE::2024-06-12.10:30:16::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-06-12.10:30:16::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+TRACE::2024-06-12.10:30:16::SCWMssOS:: Completed Standalone Artifacts creation 
+LOG::2024-06-12.10:30:16::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2024-06-12.10:30:16::SCWSystem::Completed Processing the sysconfig zedbd_zynq
+LOG::2024-06-12.10:30:16::SCWPlatform::Completed generating the artifacts for system configuration zedbd_zynq
+TRACE::2024-06-12.10:30:16::SCWPlatform::Started preparing the platform 
+TRACE::2024-06-12.10:30:16::SCWSystem::Writing the bif file for system config zedbd_zynq
+TRACE::2024-06-12.10:30:16::SCWSystem::dir created 
+TRACE::2024-06-12.10:30:16::SCWSystem::Writing the bif 
+TRACE::2024-06-12.10:30:16::SCWPlatform::Started writing the spfm file 
+TRACE::2024-06-12.10:30:16::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-06-12.10:30:16::SCWPlatform::Completed generating the platform
+TRACE::2024-06-12.10:30:16::SCWMssOS::Saving the mss changes C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:16::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-06-12.10:30:16::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-06-12.10:30:16::SCWMssOS::Commit changes completed.
+TRACE::2024-06-12.10:30:16::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:16::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:16::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:16::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:16::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:16::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:16::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:30:16::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:16::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:16::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:16::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:16::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:16::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:16::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:16::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:30:16::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:16::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:16::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:16::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:16::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:16::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:16::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:16::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:16::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:30:16::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:16::SCWWriter::formatted JSON is {
+	"platformName":	"zedbd_zynq",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"zedbd_zynq",
+	"platHandOff":	"C:/mueller/SOCL3/pictrlzync/zedb_sys_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/zedb_sys_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"true",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"zedbd_zynq",
+	"systems":	[{
+			"systemName":	"zedbd_zynq",
+			"systemDesc":	"zedbd_zynq",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"zedbd_zynq",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/zedbd_zynq/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/zedbd_zynq/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"9885fd8c66faad77d773ea45090249e0",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-06-12.10:30:16::SCWPlatform::updated the xpfm file.
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:17::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:30:17::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWMssOS::Saving the mss changes C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-06-12.10:30:17::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-06-12.10:30:17::SCWMssOS::Commit changes completed.
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:17::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:30:17::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:17::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:30:17::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:17::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:30:17::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWWriter::formatted JSON is {
+	"platformName":	"zedbd_zynq",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"zedbd_zynq",
+	"platHandOff":	"C:/mueller/SOCL3/pictrlzync/zedb_sys_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/zedb_sys_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"true",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"zedbd_zynq",
+	"systems":	[{
+			"systemName":	"zedbd_zynq",
+			"systemDesc":	"zedbd_zynq",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"zedbd_zynq",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/zedbd_zynq/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/zedbd_zynq/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"9885fd8c66faad77d773ea45090249e0",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:17::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:30:17::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:17::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:30:17::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:17::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:30:17::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWMssOS::Saving the mss changes C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-06-12.10:30:17::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-06-12.10:30:17::SCWMssOS::Commit changes completed.
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:17::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:30:17::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:17::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:30:17::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:17::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:30:17::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWWriter::formatted JSON is {
+	"platformName":	"zedbd_zynq",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"zedbd_zynq",
+	"platHandOff":	"C:/mueller/SOCL3/pictrlzync/zedb_sys_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/zedb_sys_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"true",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"zedbd_zynq",
+	"systems":	[{
+			"systemName":	"zedbd_zynq",
+			"systemDesc":	"zedbd_zynq",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"zedbd_zynq",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/zedbd_zynq/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/zedbd_zynq/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"9885fd8c66faad77d773ea45090249e0",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-06-12.10:30:17::SCWMssOS::Saving the mss changes C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-06-12.10:30:17::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-06-12.10:30:17::SCWMssOS::Commit changes completed.
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:17::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:30:17::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:17::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:30:17::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:17::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:30:17::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWWriter::formatted JSON is {
+	"platformName":	"zedbd_zynq",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"zedbd_zynq",
+	"platHandOff":	"C:/mueller/SOCL3/pictrlzync/zedb_sys_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/zedb_sys_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"true",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"zedbd_zynq",
+	"systems":	[{
+			"systemName":	"zedbd_zynq",
+			"systemDesc":	"zedbd_zynq",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"zedbd_zynq",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/zedbd_zynq/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/zedbd_zynq/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"9885fd8c66faad77d773ea45090249e0",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-06-12.10:30:17::SCWPlatform::Clearing the existing platform
+TRACE::2024-06-12.10:30:17::SCWSystem::Clearing the existing sysconfig
+TRACE::2024-06-12.10:30:17::SCWMssOS::Removing the swdes entry for  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:17::SCWSystem::Clearing the domains completed.
+TRACE::2024-06-12.10:30:17::SCWPlatform::Clearing the opened hw db.
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Platform location is C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Removing the HwDB with name C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:17::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:17::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-06-12.10:30:20::SCWPlatform::Opened new HwDB with name zedb_sys_wrapper_1
+TRACE::2024-06-12.10:30:20::SCWReader::Active system found as  zedbd_zynq
+TRACE::2024-06-12.10:30:20::SCWReader::Handling sysconfig zedbd_zynq
+TRACE::2024-06-12.10:30:20::SCWDomain::checking for install qemu data   : 
+TRACE::2024-06-12.10:30:20::SCWDomain:: Using the QEMU Data from install at  : C:/Xilinx/Vitis/2022.1/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2024-06-12.10:30:20::SCWDomain:: Using the QEMU args  from install at  : C:/Xilinx/Vitis/2022.1/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2024-06-12.10:30:20::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:20::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:20::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:20::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:20::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:20::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:20::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_1
+TRACE::2024-06-12.10:30:20::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_1
+TRACE::2024-06-12.10:30:20::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:20::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:20::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:20::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:20::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:20::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:20::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:20::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_1
+TRACE::2024-06-12.10:30:20::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_1
+TRACE::2024-06-12.10:30:20::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:20::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:20::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:20::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:20::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:20::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:20::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:20::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_1
+TRACE::2024-06-12.10:30:20::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_1
+TRACE::2024-06-12.10:30:20::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:20::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:20::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:20::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:20::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:20::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:20::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:20::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_1
+TRACE::2024-06-12.10:30:20::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_1
+TRACE::2024-06-12.10:30:20::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:20::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:20::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-06-12.10:30:20::SCWMssOS::No sw design opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:20::SCWMssOS::mss exists loading the mss file  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:20::SCWMssOS::Opened the sw design from mss  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:20::SCWMssOS::Adding the swdes entry C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-06-12.10:30:20::SCWMssOS::updating the scw layer about changes
+TRACE::2024-06-12.10:30:20::SCWMssOS::Opened the sw design.  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:20::SCWMssOS::Saving the mss changes C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:20::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-06-12.10:30:20::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-06-12.10:30:20::SCWMssOS::Commit changes completed.
+TRACE::2024-06-12.10:30:20::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-06-12.10:30:20::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-06-12.10:30:20::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:20::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:20::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:20::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:20::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:20::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:20::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_1
+TRACE::2024-06-12.10:30:20::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_1
+TRACE::2024-06-12.10:30:20::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:20::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:20::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:30:20::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:20::SCWReader::No isolation master present  
+LOG::2024-06-12.10:30:55::SCWPlatform::Started generating the artifacts platform zedbd_zynq
+TRACE::2024-06-12.10:30:55::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-06-12.10:30:55::SCWPlatform::Started generating the artifacts for system configuration zedbd_zynq
+LOG::2024-06-12.10:30:55::SCWSystem::Checking the domain standalone_domain
+LOG::2024-06-12.10:30:55::SCWSystem::Not a boot domain 
+LOG::2024-06-12.10:30:55::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2024-06-12.10:30:55::SCWDomain::Generating domain artifcats
+TRACE::2024-06-12.10:30:55::SCWMssOS::Generating standalone artifcats
+TRACE::2024-06-12.10:30:55::SCWMssOS::Copying the qemu file from  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/resources/zedbd_zynq/standalone_domain/qemu_args.txt To C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/export/zedbd_zynq/sw/zedbd_zynq/qemu/
+TRACE::2024-06-12.10:30:55::SCWMssOS::Copying the qemu file from  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/resources/zedbd_zynq/standalone_domain/qemu_args.txt To C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/export/zedbd_zynq/sw/zedbd_zynq/standalone_domain/qemu/
+TRACE::2024-06-12.10:30:55::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-06-12.10:30:55::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:55::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:55::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:55::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:30:55::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:30:55::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:30:55::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_1
+TRACE::2024-06-12.10:30:55::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_1
+TRACE::2024-06-12.10:30:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:30:55::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:55::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:30:55::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:55::SCWMssOS::Completed writing the mss file at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2024-06-12.10:30:55::SCWMssOS::Mss edits present, copying mssfile into export location C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:30:55::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-06-12.10:30:55::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-06-12.10:30:55::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2024-06-12.10:30:55::SCWMssOS::doing bsp build ... 
+TRACE::2024-06-12.10:30:55::SCWMssOS::System Command Ran  C: & cd  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp & make 
+TRACE::2024-06-12.10:30:55::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2024-06-12.10:30:55::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2024-06-12.10:30:55::SCWMssOS::make -j 10 --no-print-directory par_libs
+
+TRACE::2024-06-12.10:30:55::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2024-06-12.10:30:55::SCWMssOS::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none
+TRACE::2024-06-12.10:30:55::SCWMssOS::-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=h
+TRACE::2024-06-12.10:30:55::SCWMssOS::ard -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:55::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src"
+
+TRACE::2024-06-12.10:30:55::SCWMssOS::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+TRACE::2024-06-12.10:30:55::SCWMssOS::abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+TRACE::2024-06-12.10:30:55::SCWMssOS::d -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:55::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2024-06-12.10:30:55::SCWMssOS::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2024-06-12.10:30:55::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2024-06-12.10:30:55::SCWMssOS::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:55::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-06-12.10:30:56::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-06-12.10:30:56::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_8/src"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/dmaps_v2_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2024-06-12.10:30:56::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2024-06-12.10:30:56::SCWMssOS::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_9/src"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/gpiops_v3_9/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-06-12.10:30:56::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-06-12.10:30:56::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_9/src"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/qspips_v3_9/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-06-12.10:30:56::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-06-12.10:30:56::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v4_7/src"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scugic_v4_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-06-12.10:30:56::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-06-12.10:30:56::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_4/src"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scutimer_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2024-06-12.10:30:56::SCWMssOS::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2024-06-12.10:30:56::SCWMssOS::startfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_4/src"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-06-12.10:30:56::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-06-12.10:30:56::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_14/src"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/sdps_v3_14/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2024-06-12.10:30:56::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2024-06-12.10:30:56::SCWMssOS::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v7_7/src"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/standalone_v7_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2024-06-12.10:30:56::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2024-06-12.10:30:56::SCWMssOS::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_11/src"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/uartps_v3_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2024-06-12.10:30:56::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2024-06-12.10:30:56::SCWMssOS::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_6/src"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/xadcps_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-06-12.10:30:56::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-06-12.10:30:56::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-ea
+TRACE::2024-06-12.10:30:56::SCWMssOS::bi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard
+TRACE::2024-06-12.10:30:56::SCWMssOS:: -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2024-06-12.10:30:56::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2024-06-12.10:30:56::SCWMssOS::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2024-06-12.10:30:56::SCWMssOS::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2024-06-12.10:30:56::SCWMssOS::iles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2024-06-12.10:30:56::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2024-06-12.10:30:56::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_8/src"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/dmaps_v2_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2024-06-12.10:30:56::SCWMssOS::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2024-06-12.10:30:56::SCWMssOS::iles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_9/src"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/gpiops_v3_9/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2024-06-12.10:30:56::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2024-06-12.10:30:56::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_9/src"
+
+TRACE::2024-06-12.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/qspips_v3_9/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2024-06-12.10:30:56::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2024-06-12.10:30:56::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:57::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v4_7/src"
+
+TRACE::2024-06-12.10:30:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scugic_v4_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2024-06-12.10:30:57::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2024-06-12.10:30:57::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:57::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_4/src"
+
+TRACE::2024-06-12.10:30:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scutimer_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2024-06-12.10:30:57::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2024-06-12.10:30:57::SCWMssOS::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:57::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_4/src"
+
+TRACE::2024-06-12.10:30:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2024-06-12.10:30:57::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2024-06-12.10:30:57::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:57::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v3_14/src"
+
+TRACE::2024-06-12.10:30:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/sdps_v3_14/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2024-06-12.10:30:57::SCWMssOS::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2024-06-12.10:30:57::SCWMssOS::iles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:57::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v7_7/src"
+
+TRACE::2024-06-12.10:30:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/standalone_v7_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2024-06-12.10:30:57::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2024-06-12.10:30:57::SCWMssOS::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:58::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_11/src"
+
+TRACE::2024-06-12.10:30:58::SCWMssOS::make -C ps7_cortexa9_0/libsrc/uartps_v3_11/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2024-06-12.10:30:58::SCWMssOS::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2024-06-12.10:30:58::SCWMssOS::tfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:58::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_6/src"
+
+TRACE::2024-06-12.10:30:58::SCWMssOS::make -C ps7_cortexa9_0/libsrc/xadcps_v2_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2024-06-12.10:30:58::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2024-06-12.10:30:58::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-06-12.10:30:59::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2024-06-12.10:30:59::SCWMssOS::make --no-print-directory archive
+
+TRACE::2024-06-12.10:30:59::SCWMssOS::arm-none-eabi-ar -r  ps7_cortexa9_0/lib/libxil.a ps7_cortexa9_0/lib/xadcps_selftest.o ps7_cortexa9_0/lib/kill.o ps7_cortexa9_0/
+TRACE::2024-06-12.10:30:59::SCWMssOS::lib/xscuwdt_g.o ps7_cortexa9_0/lib/xplatform_info.o ps7_cortexa9_0/lib/xqspips_options.o ps7_cortexa9_0/lib/print.o ps7_cortexa
+TRACE::2024-06-12.10:30:59::SCWMssOS::9_0/lib/xscugic_selftest.o ps7_cortexa9_0/lib/xsdps_card.o ps7_cortexa9_0/lib/xdmaps_g.o ps7_cortexa9_0/lib/xil_testio.o ps7_co
+TRACE::2024-06-12.10:30:59::SCWMssOS::rtexa9_0/lib/isatty.o ps7_cortexa9_0/lib/sleep.o ps7_cortexa9_0/lib/xdevcfg_hw.o ps7_cortexa9_0/lib/xadcps_intr.o ps7_cortexa9_
+TRACE::2024-06-12.10:30:59::SCWMssOS::0/lib/xpm_counter.o ps7_cortexa9_0/lib/xscutimer_g.o ps7_cortexa9_0/lib/xdmaps_sinit.o ps7_cortexa9_0/lib/xil_cache.o ps7_corte
+TRACE::2024-06-12.10:30:59::SCWMssOS::xa9_0/lib/xil_util.o ps7_cortexa9_0/lib/inbyte.o ps7_cortexa9_0/lib/xsdps_options.o ps7_cortexa9_0/lib/xdmaps_selftest.o ps7_co
+TRACE::2024-06-12.10:30:59::SCWMssOS::rtexa9_0/lib/xscutimer_selftest.o ps7_cortexa9_0/lib/xil_misc_psreset_api.o ps7_cortexa9_0/lib/cpputest_time.o ps7_cortexa9_0/l
+TRACE::2024-06-12.10:30:59::SCWMssOS::ib/xgpiops_g.o ps7_cortexa9_0/lib/close.o ps7_cortexa9_0/lib/xuartps_g.o ps7_cortexa9_0/lib/xsdps.o ps7_cortexa9_0/lib/xscugic_
+TRACE::2024-06-12.10:30:59::SCWMssOS::intr.o ps7_cortexa9_0/lib/xscugic_hw.o ps7_cortexa9_0/lib/xgpiops_sinit.o ps7_cortexa9_0/lib/xqspips_g.o ps7_cortexa9_0/lib/xil
+TRACE::2024-06-12.10:30:59::SCWMssOS::_spinlock.o ps7_cortexa9_0/lib/xgpiops_selftest.o ps7_cortexa9_0/lib/translation_table.o ps7_cortexa9_0/lib/write.o ps7_cortexa
+TRACE::2024-06-12.10:30:59::SCWMssOS::9_0/lib/xqspips_selftest.o ps7_cortexa9_0/lib/xil_mmu.o ps7_cortexa9_0/lib/boot.o ps7_cortexa9_0/lib/cpu_init.o ps7_cortexa9_0/
+TRACE::2024-06-12.10:30:59::SCWMssOS::lib/xscugic_g.o ps7_cortexa9_0/lib/xscutimer_sinit.o ps7_cortexa9_0/lib/xsdps_sinit.o ps7_cortexa9_0/lib/time.o ps7_cortexa9_0/
+TRACE::2024-06-12.10:30:59::SCWMssOS::lib/usleep.o ps7_cortexa9_0/lib/xuartps_sinit.o ps7_cortexa9_0/lib/xil_sleepcommon.o ps7_cortexa9_0/lib/xil_printf.o ps7_cortex
+TRACE::2024-06-12.10:30:59::SCWMssOS::a9_0/lib/unlink.o ps7_cortexa9_0/lib/xadcps.o ps7_cortexa9_0/lib/xdmaps_hw.o ps7_cortexa9_0/lib/xgpiops_intr.o ps7_cortexa9_0/l
+TRACE::2024-06-12.10:30:59::SCWMssOS::ib/xscugic_sinit.o ps7_cortexa9_0/lib/xil_sleeptimer.o ps7_cortexa9_0/lib/fcntl.o ps7_cortexa9_0/lib/open.o ps7_cortexa9_0/lib/
+TRACE::2024-06-12.10:30:59::SCWMssOS::_exit.o ps7_cortexa9_0/lib/outbyte.o ps7_cortexa9_0/lib/xinterrupt_wrap.o ps7_cortexa9_0/lib/xuartps_hw.o ps7_cortexa9_0/lib/re
+TRACE::2024-06-12.10:30:59::SCWMssOS::ad.o ps7_cortexa9_0/lib/xqspips_hw.o ps7_cortexa9_0/lib/xil_testmem.o ps7_cortexa9_0/lib/xgpiops.o ps7_cortexa9_0/lib/xl2cc_cou
+TRACE::2024-06-12.10:30:59::SCWMssOS::nter.o ps7_cortexa9_0/lib/xtime_l.o ps7_cortexa9_0/lib/asm_vectors.o ps7_cortexa9_0/lib/xdevcfg_intr.o ps7_cortexa9_0/lib/abort
+TRACE::2024-06-12.10:30:59::SCWMssOS::.o ps7_cortexa9_0/lib/xdevcfg_g.o ps7_cortexa9_0/lib/xuartps_intr.o ps7_cortexa9_0/lib/xuartps.o ps7_cortexa9_0/lib/getpid.o ps
+TRACE::2024-06-12.10:30:59::SCWMssOS::7_cortexa9_0/lib/xil_testcache.o ps7_cortexa9_0/lib/xdevcfg_sinit.o ps7_cortexa9_0/lib/xdmaps.o ps7_cortexa9_0/lib/xscutimer.o 
+TRACE::2024-06-12.10:30:59::SCWMssOS::ps7_cortexa9_0/lib/xscuwdt.o ps7_cortexa9_0/lib/xdevcfg_selftest.o ps7_cortexa9_0/lib/xqspips.o ps7_cortexa9_0/lib/xscuwdt_sini
+TRACE::2024-06-12.10:30:59::SCWMssOS::t.o ps7_cortexa9_0/lib/sbrk.o ps7_cortexa9_0/lib/xgpiops_hw.o ps7_cortexa9_0/lib/xsdps_g.o ps7_cortexa9_0/lib/fstat.o ps7_corte
+TRACE::2024-06-12.10:30:59::SCWMssOS::xa9_0/lib/errno.o ps7_cortexa9_0/lib/lseek.o ps7_cortexa9_0/lib/xuartps_options.o ps7_cortexa9_0/lib/_sbrk.o ps7_cortexa9_0/lib
+TRACE::2024-06-12.10:30:59::SCWMssOS::/xuartps_selftest.o ps7_cortexa9_0/lib/vectors.o ps7_cortexa9_0/lib/xil_exception.o ps7_cortexa9_0/lib/putnum.o ps7_cortexa9_0/
+TRACE::2024-06-12.10:30:59::SCWMssOS::lib/xil_clocking.o ps7_cortexa9_0/lib/xil_assert.o ps7_cortexa9_0/lib/xscuwdt_selftest.o ps7_cortexa9_0/lib/xsdps_host.o ps7_co
+TRACE::2024-06-12.10:30:59::SCWMssOS::rtexa9_0/lib/xcoresightpsdcc.o ps7_cortexa9_0/lib/xscugic.o ps7_cortexa9_0/lib/xadcps_g.o ps7_cortexa9_0/lib/xil-crt0.o ps7_cor
+TRACE::2024-06-12.10:30:59::SCWMssOS::texa9_0/lib/xqspips_sinit.o ps7_cortexa9_0/lib/xadcps_sinit.o ps7_cortexa9_0/lib/xil_mem.o ps7_cortexa9_0/lib/_open.o ps7_corte
+TRACE::2024-06-12.10:30:59::SCWMssOS::xa9_0/lib/xdevcfg.o
+
+TRACE::2024-06-12.10:30:59::SCWMssOS::'Finished building libraries'
+
+TRACE::2024-06-12.10:30:59::SCWMssOS::Copying to export directory.
+TRACE::2024-06-12.10:31:00::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-06-12.10:31:00::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+TRACE::2024-06-12.10:31:00::SCWMssOS:: Completed Standalone Artifacts creation 
+LOG::2024-06-12.10:31:00::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2024-06-12.10:31:00::SCWSystem::Completed Processing the sysconfig zedbd_zynq
+LOG::2024-06-12.10:31:00::SCWPlatform::Completed generating the artifacts for system configuration zedbd_zynq
+TRACE::2024-06-12.10:31:00::SCWPlatform::Started preparing the platform 
+TRACE::2024-06-12.10:31:00::SCWSystem::Writing the bif file for system config zedbd_zynq
+TRACE::2024-06-12.10:31:00::SCWSystem::dir created 
+TRACE::2024-06-12.10:31:00::SCWSystem::Writing the bif 
+TRACE::2024-06-12.10:31:00::SCWPlatform::Started writing the spfm file 
+TRACE::2024-06-12.10:31:00::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-06-12.10:31:00::SCWPlatform::Completed generating the platform
+TRACE::2024-06-12.10:31:00::SCWMssOS::Saving the mss changes C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:31:00::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-06-12.10:31:00::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-06-12.10:31:00::SCWMssOS::Commit changes completed.
+TRACE::2024-06-12.10:31:00::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:31:00::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:31:00::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:31:00::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:31:00::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:31:00::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:31:00::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_1
+TRACE::2024-06-12.10:31:00::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_1
+TRACE::2024-06-12.10:31:00::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:31:00::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:31:00::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:31:00::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:31:00::SCWWriter::formatted JSON is {
+	"platformName":	"zedbd_zynq",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"zedbd_zynq",
+	"platHandOff":	"C:/mueller/SOCL3/pictrlzync/zedb_sys_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/zedb_sys_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"true",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"zedbd_zynq",
+	"systems":	[{
+			"systemName":	"zedbd_zynq",
+			"systemDesc":	"zedbd_zynq",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"zedbd_zynq",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/zedbd_zynq/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/zedbd_zynq/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"9885fd8c66faad77d773ea45090249e0",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-06-12.10:31:00::SCWPlatform::updated the xpfm file.
+TRACE::2024-06-12.10:31:00::SCWPlatform::Trying to open the hw design at C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:31:00::SCWPlatform::DSA given C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:31:00::SCWPlatform::DSA absoulate path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:31:00::SCWPlatform::DSA directory C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw
+TRACE::2024-06-12.10:31:00::SCWPlatform:: Platform Path C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/hw/zedb_sys_wrapper.xsa
+TRACE::2024-06-12.10:31:00::SCWPlatform:: Unique name xilinx:zedboard::0.0
+TRACE::2024-06-12.10:31:00::SCWPlatform::Trying to set the existing hwdb with name zedb_sys_wrapper_1
+TRACE::2024-06-12.10:31:00::SCWPlatform::Opened existing hwdb zedb_sys_wrapper_1
+TRACE::2024-06-12.10:31:00::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-06-12.10:31:00::SCWMssOS::Checking the sw design at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-06-12.10:31:00::SCWMssOS::DEBUG:  swdes dump  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-06-12.10:31:00::SCWMssOS::Sw design exists and opened at  C:/mueller/SOCL3/pictrlzync/vitiswsp/zedbd_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss

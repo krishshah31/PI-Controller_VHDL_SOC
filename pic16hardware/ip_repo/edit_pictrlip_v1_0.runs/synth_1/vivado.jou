@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Wed Jun 19 10:40:50 2024
+# Process ID: 17048
+# Current directory: c:/mueller/SOCL3/pic16hardware/ip_repo/edit_pictrlip_v1_0.runs/synth_1
+# Command line: vivado.exe -log pictrlip_v1_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source pictrlip_v1_0.tcl
+# Log file: c:/mueller/SOCL3/pic16hardware/ip_repo/edit_pictrlip_v1_0.runs/synth_1/pictrlip_v1_0.vds
+# Journal file: c:/mueller/SOCL3/pic16hardware/ip_repo/edit_pictrlip_v1_0.runs/synth_1\vivado.jou
+# Running On: AutPC2, OS: Windows, CPU Frequency: 3192 MHz, CPU Physical cores: 6, Host memory: 17010 MB
+#-----------------------------------------------------------
+source pictrlip_v1_0.tcl -notrace

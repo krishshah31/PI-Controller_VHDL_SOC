@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Wed Jun 26 12:52:04 2024
+# Process ID: 10320
+# Current directory: C:/mueller/SOCL3/pic16hardware/pic16hardware.runs/synth_1
+# Command line: vivado.exe -log zedpi_sys_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source zedpi_sys_wrapper.tcl
+# Log file: C:/mueller/SOCL3/pic16hardware/pic16hardware.runs/synth_1/zedpi_sys_wrapper.vds
+# Journal file: C:/mueller/SOCL3/pic16hardware/pic16hardware.runs/synth_1\vivado.jou
+# Running On: AutPC2, OS: Windows, CPU Frequency: 3192 MHz, CPU Physical cores: 6, Host memory: 17010 MB
+#-----------------------------------------------------------
+source zedpi_sys_wrapper.tcl -notrace
